@@ -1,0 +1,63 @@
+{
+  "name": "Mobília Flex - Puffs Modernos e Funcionais",
+  "short_name": "Mobília Flex",
+  "description": "Transforme seu espaço com puffs modernos da Mobília Flex. Design exclusivo, materiais premium e 5 anos de garantia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "pt-BR",
+  "categories": ["shopping", "lifestyle", "home"],
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/hero-background.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "platform": "wide",
+      "label": "Página inicial da Mobília Flex"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Ver Produtos",
+      "short_name": "Produtos",
+      "description": "Veja nossa linha completa de puffs",
+      "url": "/#produtos",
+      "icons": [
+        {
+          "src": "/logo.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Contato",
+      "short_name": "Contato",
+      "description": "Entre em contato conosco",
+      "url": "/#contato",
+      "icons": [
+        {
+          "src": "/logo.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
+
